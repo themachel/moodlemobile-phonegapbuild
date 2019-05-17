@@ -53,9 +53,7 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        }
-    },
+    "demo_sites": {},
     "customurlscheme": "moodlemobile",
     "siteurl": "https://www.my-vle.com",
     "sitename": "My-VLE",
